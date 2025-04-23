@@ -10,6 +10,8 @@ The **Employee Tracker** is a command-line application that enables business own
 
 To install and set up the application locally, follow these steps:
 
+open an integrated terminal on the Employee_tracker folder
+
 ```bash
 npm i
 npm run build
